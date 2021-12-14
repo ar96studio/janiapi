@@ -1,118 +1,147 @@
 [
   {
-    "dream_title": "سور القرآن الكريم",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter0.json"
+    "long_title": "سور القرآن الكريم",
+    "short_title": " ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter0.json"
   },
   {
-    "dream_title": "حرف الالف أ",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter1.json"
+    "long_title": "حرف الالف",
+    "short_title": "أ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter1.json"
   },
   {
-    "dream_title": "حرف الباء ب",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter2.json"
+    "long_title": "حرف الباء",
+    "short_title": "ب",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter2.json"
   },
   {
-    "dream_title": "حرف التاء ت",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter3.json"
+    "long_title": "حرف التاء",
+    "short_title": "ت",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter3.json"
   },
   {
-    "dream_title": "حرف الثاء ث",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter4.json"
+    "long_title": "حرف الثاء",
+    "short_title": "ث",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter4.json"
   },
   {
-    "dream_title": "حرف الجيم ج",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter5.json"
+    "long_title": "حرف الجيم",
+    "short_title": "ج",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter5.json"
   },
   {
-    "dream_title": "حرف الحاء ح",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter6.json"
+    "long_title": "حرف الحاء",
+    "short_title": "ح",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter6.json"
   },
   {
-    "dream_title": "حرف الخاء خ",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter7.json"
+    "long_title": "حرف الخاء",
+    "short_title": "خ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter7.json"
   },
   {
-    "dream_title": "حرف الدال د",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter8.json"
+    "long_title": "حرف الدال",
+    "short_title": "د",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter8.json"
   },
   {
-    "dream_title": "حرف الذال ذ",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter9.json"
+    "long_title": "حرف الذال",
+    "short_title": "ذ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter9.json"
   },
   {
-    "dream_title": "حرف الراء ر",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter10.json"
+    "long_title": "حرف الراء",
+    "short_title": "ر",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter10.json"
   },
   {
-    "dream_title": "حرف الزاي ز",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter11.json"
+    "long_title": "حرف الزاي",
+    "short_title": "ز",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter11.json"
   },
   {
-    "dream_title": "حرف السين",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter12.json"
+    "long_title": "حرف السين",
+    "short_title": "س",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter12.json"
   },
   {
-    "dream_title": "حرف الشين",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter13.json"
+    "long_title": "حرف الشين",
+    "short_title": "ش",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter13.json"
   },
   {
-    "dream_title": "حرف الصاد ص",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter14.json"
+    "long_title": "حرف الصاد",
+    "short_title": "ص",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter14.json"
   },
   {
-    "dream_title": "حرف الضاد ض",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter15.json"
+    "long_title": "حرف الضاد",
+    "short_title": "ض",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter15.json"
   },
   {
-    "dream_title": "حرف الطاء ط",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter16.json"
+    "long_title": "حرف الطاء",
+    "short_title": "ط",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter16.json"
   },
   {
-    "dream_title": "حرف الظاء ظ",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter17.json"
+    "long_title": "حرف الظاء",
+    "short_title": "ظ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter17.json"
   },
   {
-    "dream_title": "حرف العين ع",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter18.json"
+    "long_title": "حرف العين",
+    "short_title": "ع",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter18.json"
   },
   {
-    "dream_title": "حرف الغين غ",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter19.json"
+    "long_title": "حرف الغين",
+    "short_title": "غ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter19.json"
   },
   {
-    "dream_title": "حرف الفاء ف",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter20.json"
+    "long_title": "حرف الفاء",
+    "short_title": "ف",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter20.json"
   },
   {
-    "dream_title": "حرف القاف ق",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter21.json"
+    "long_title": "حرف القاف",
+    "short_title": "ق",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter21.json"
   },
   {
-    "dream_title": "حرف الكاف ك",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter22.json"
+    "long_title": "حرف الكاف",
+    "short_title": "ك",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter22.json"
   },
   {
-    "dream_title": "حرف اللام ل",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter23.json"
+    "long_title": "حرف اللام",
+    "short_title": "ل",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter23.json"
   },
   {
-    "dream_title": "حرف الميم م",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter24.json"
+    "long_title": "حرف الميم",
+    "short_title": "م",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter24.json"
   },
   {
-    "dream_title": "حرف النون ن",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter25.json"
+    "long_title": "حرف النون",
+    "short_title": "ن",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter25.json"
   },
   {
-    "dream_title": "حرف الهاء ه",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter26.json"
+    "long_title": "حرف الهاء",
+    "short_title": "ه",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter26.json"
   },
   {
-    "dream_title": "حرف الواو و",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter27.json"
+    "long_title": "حرف الواو",
+    "short_title": "و",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter27.json"
   },
   {
-    "dream_title": "حرف الياء ي",
-    "dream_list": "https://ar96studio.github.io/janiapi/Tafsir/letter28.json"
+    "long_title": "حرف الياء",
+    "short_title": "ي",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter28.json"
   }
 ]
