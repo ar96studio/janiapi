@@ -1,0 +1,176 @@
+[
+  {
+    "long_title": "سور القرآن الكريم",
+    "short_title": " ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter0.json",
+    "total_num": 113
+  },
+  {
+    "long_title": "حرف الالف",
+    "short_title": "أ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter1.json",
+    "total_num": 97
+  },
+  {
+    "long_title": "حرف الباء",
+    "short_title": "ب",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter2.json",
+    "total_num": 102
+  },
+  {
+    "long_title": "حرف التاء",
+    "short_title": "ت",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter3.json",
+    "total_num": 75
+  },
+  {
+    "long_title": "حرف الثاء",
+    "short_title": "ث",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter4.json",
+    "total_num": 19
+  },
+  {
+    "long_title": "حرف الجيم",
+    "short_title": "ج",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter5.json",
+    "total_num": 102
+  },
+  {
+    "long_title": "حرف الحاء",
+    "short_title": "ح",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter6.json",
+    "total_num": 124
+  },
+  {
+    "long_title": "حرف الخاء",
+    "short_title": "خ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter7.json",
+    "total_num": 76
+  },
+  {
+    "long_title": "حرف الدال",
+    "short_title": "د",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter8.json",
+    "total_num": 70
+  },
+  {
+    "long_title": "حرف الذال",
+    "short_title": "ذ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter9.json",
+    "total_num": 16
+  },
+  {
+    "long_title": "حرف الراء",
+    "short_title": "ر",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter10.json",
+    "total_num": 81
+  },
+  {
+    "long_title": "حرف الزاي",
+    "short_title": "ز",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter11.json",
+    "total_num": 57
+  },
+  {
+    "long_title": "حرف السين",
+    "short_title": "س",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter12.json",
+    "total_num": 136
+  },
+  {
+    "long_title": "حرف الشين",
+    "short_title": "ش",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter13.json",
+    "total_num": 81
+  },
+  {
+    "long_title": "حرف الصاد",
+    "short_title": "ص",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter14.json",
+    "total_num": 83
+  },
+  {
+    "long_title": "حرف الضاد",
+    "short_title": "ض",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter15.json",
+    "total_num": 27
+  },
+  {
+    "long_title": "حرف الطاء",
+    "short_title": "ط",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter16.json",
+    "total_num": 56
+  },
+  {
+    "long_title": "حرف الظاء",
+    "short_title": "ظ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter17.json",
+    "total_num": 13
+  },
+  {
+    "long_title": "حرف العين",
+    "short_title": "ع",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter18.json",
+    "total_num": 125
+  },
+  {
+    "long_title": "حرف الغين",
+    "short_title": "غ",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter19.json",
+    "total_num": 53
+  },
+  {
+    "long_title": "حرف الفاء",
+    "short_title": "ف",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter20.json",
+    "total_num": 77
+  },
+  {
+    "long_title": "حرف القاف",
+    "short_title": "ق",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter21.json",
+    "total_num": 138
+  },
+  {
+    "long_title": "حرف الكاف",
+    "short_title": "ك",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter22.json",
+    "total_num": 88
+  },
+  {
+    "long_title": "حرف اللام",
+    "short_title": "ل",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter23.json",
+    "total_num": 48
+  },
+  {
+    "long_title": "حرف الميم",
+    "short_title": "م",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter24.json",
+    "total_num": 230
+  },
+  {
+    "long_title": "حرف النون",
+    "short_title": "ن",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter25.json",
+    "total_num": 99
+  },
+  {
+    "long_title": "حرف الهاء",
+    "short_title": "ه",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter26.json",
+    "total_num": 32
+  },
+  {
+    "long_title": "حرف الواو",
+    "short_title": "و",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter27.json",
+    "total_num": 55
+  },
+  {
+    "long_title": "حرف الياء",
+    "short_title": "ي",
+    "letter_url": "https://ar96studio.github.io/janiapi/Tafsir/letter28.json",
+    "total_num": 16
+  }
+]
